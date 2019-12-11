@@ -52,22 +52,22 @@ See: https://reactnavigation.org/docs/en/getting-started.html
 ## Layout Simple
 
 #### Home
-![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/home.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/home.PNG)
 ##### Scan
-![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/scan.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/scan.PNG)
 ##### Search
-![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/search.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/search.PNG)
 
 #### Feed
-![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/feed.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/feed.PNG)
 
 #### Message
-![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/feed.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/feed.pPNGng)
 
 #### Cart
-![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/cart.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/cart.PNG)
 
 #### Account
-![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/account.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/account.PNG)
 ##### Account Info
-![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/account-info.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/account-info.PNG)
