@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=reactnative">
-    <img src="https://img.shields.io/twitter/follow/reactnative.svg?label=Follow%20@reactnative" alt="Follow @reactnative" />
+    <img src="https://img.shields.io/twitter/follow/reactnative.svg?label=Follow%20@lmnguyenbt" alt="Follow @lmnguyenbt" />
   </a>
 </p>
 
@@ -52,22 +52,22 @@ See: https://reactnavigation.org/docs/en/getting-started.html
 ## Layout Simple
 
 #### Home
-![demo](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/demo/home.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/home.png)
 ##### Scan
-![demo](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/demo/scan.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/scan.png)
 ##### Search
-![demo](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/demo/search.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/search.png)
 
 #### Feed
-![demo](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/demo/feed.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/feed.png)
 
 #### Message
-![demo](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/demo/feed.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/feed.png)
 
 #### Cart
-![demo](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/demo/cart.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/cart.png)
 
 #### Account
-![demo](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/demo/account.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/account.png)
 ##### Account Info
-![demo](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/demo/account-info.png)
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/account-info.png)
