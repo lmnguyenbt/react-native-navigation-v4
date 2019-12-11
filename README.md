@@ -49,25 +49,40 @@ See: https://reactnavigation.org/docs/en/getting-started.html
 * The [Community Resources](https://github.com/react-navigation/react-navigation/blob/master/COMMUNITY_RESOURCES.md) document lists some other resources submitted to us by people who use React Navigation. Feel free to open a pull request to add your resource to the list.
 * You can contribute improvements to the documentation [in the website repository](https://github.com/react-navigation/react-navigation.github.io).
 
+## What to expect?
+* Once the project is initialized, in the project directory run expo install react-navigation react-native-gesture-handler react-native-reanimated react-native-screens, and you're ready to go! You can now continue to "Hello React Navigation" to start writing some code.
+* The libraries we will install now are react-native-gesture-handler, react-native-reanimated, and react-native-screens. If you already have these libraries installed and at the latest version, you are done here! Otherwise, read on.
+
+## createStackNavigator
+* By default the stack navigator is configured to have the familiar iOS and Android look & feel: new screens slide in from the right on iOS, fade in from the bottom on Android. On iOS the stack navigator can also be configured to a modal style where screens slide in from the bottom.
+* To use this navigator, ensure that you have react-navigation and its dependencies installed, then install react-navigation-stack.
+
+## createBottomTabNavigator
+* A simple tab bar on the bottom of the screen that lets you switch between different routes. Routes are lazily initialized -- their screen components are not mounted until they are first focused.
+* To use this navigator, ensure that you have react-navigation and its dependencies installed, then install react-navigation-tabs.
+
+## createDrawerNavigator
+* To use this navigator, ensure that you have react-navigation and its dependencies installed, then install react-navigation-drawer.
+
 ## Layout Simple
 
-#### Home
+### Home
 ![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/home.PNG)
-##### Scan
+#### Scan
 ![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/scan.PNG)
-##### Search
+#### Search
 ![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/search.PNG)
 
-#### Feed
+### Feed
 ![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/feed.PNG)
 
-#### Message
-![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/feed.pPNGng)
+### Message
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/message.PNG)
 
-#### Cart
+### Cart
 ![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/cart.PNG)
 
-#### Account
+### Account
 ![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/account.PNG)
-##### Account Info
+#### Account Info
 ![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/account-info.PNG)
