@@ -82,6 +82,12 @@ See: https://reactnavigation.org/docs/en/getting-started.html
 ### Cart
 ![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/cart.PNG)
 
+### Login
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/login.PNG)
+
+### Sign In
+![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/sign-in.PNG)
+
 ### Account
 ![simple](https://raw.github.com/lmnguyenbt/react-native-navigation-v4/master/simple/account.PNG)
 #### Account Info
